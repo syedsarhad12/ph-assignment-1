@@ -36,6 +36,7 @@ nav{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 26px;
   width: 240.28px;
   height: 240px;
 }
@@ -69,6 +70,16 @@ background-repeat: no-repeat;
   font-size: 20px;
   padding: 21px 24px;
   color: white;
+  text-decoration: none;
   border-radius: 8px;
   border-color: none;
 }
+
+/* Main Section styles*/
+
+/* why web development section styles */
+.whywebdevelopment{
+  padding: 80px 97px;
+
+}
+
