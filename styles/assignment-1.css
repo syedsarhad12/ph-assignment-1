@@ -80,6 +80,25 @@ background-repeat: no-repeat;
 /* why web development section styles */
 .whywebdevelopment{
   padding: 80px 97px;
-
+  margin: 152px;
 }
 
+/* My Ispiration Sections Styles */
+.myinspiration{
+  margin: 152px;
+}
+
+/* My Current Target Sections Styles */
+.mycurrenttarget{
+  margin: 150px;
+}
+
+/* I need Support Section Styles */
+.ineedsupport{
+  margin: 150px;
+}
+
+/* Footer Styles */
+.footer{
+  margin: 150px;
+}
